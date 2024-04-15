@@ -1,0 +1,55 @@
+animal
+land animal
+wild animal
+long necked animal
+giraffe
+$
+$
+lion
+$
+$
+meowing
+cat
+$
+$
+dog
+$
+$
+not a mammal
+lion
+$
+$
+dolphin
+$
+$
+object
+writing utensil
+pen
+$
+$
+person
+Kai Hong
+$
+$
+school
+The Harker School
+$
+$
+laptop
+$
+$
+the current president
+Joe Biden
+$
+$
+person
+Smart Person
+Keshav
+$
+$
+Kai
+$
+$
+Barack Obama
+$
+$
